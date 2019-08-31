@@ -1,0 +1,59 @@
+{
+	"id": "75d9f1cf-2879-483f-ab7a-d31a145ff3df",
+	"name": "TrelloEnv",
+	"values": [
+		{
+			"key": "trelloKey",
+			"value": "93f0861d9e4ec9141164397c8d1405d5",
+			"enabled": true
+		},
+		{
+			"key": "trelloToken",
+			"value": "8ee4dd60fd0fdd409488fc9162c3834efff060bc5859b3236736fd3838fc40b5",
+			"enabled": true
+		},
+		{
+			"key": "trelloAPIURL",
+			"value": "https://api.trello.com",
+			"enabled": true
+		},
+		{
+			"key": "userName",
+			"value": "gururajhm1",
+			"enabled": true
+		},
+		{
+			"key": "boardName",
+			"value": "testing",
+			"enabled": true
+		},
+		{
+			"key": "TODOListId",
+			"value": "5d6a7d1aed7ec961206646bb",
+			"enabled": true
+		},
+		{
+			"key": "DONEListID",
+			"value": "5d6a7d38104ad54fb62fc24b",
+			"enabled": true
+		},
+		{
+			"key": "remainingCards",
+			"value": 99,
+			"enabled": true
+		},
+		{
+			"key": "ThatsABugCardID",
+			"value": "5d6a7d4c7b08508de01f90ac",
+			"enabled": true
+		},
+		{
+			"key": "counter",
+			"value": "0",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2019-08-31T15:10:29.273Z",
+	"_postman_exported_using": "Postman/7.6.0"
+}
