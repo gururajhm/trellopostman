@@ -4,12 +4,12 @@
 	"values": [
 		{
 			"key": "trelloKey",
-			"value": "93f0861d9e4ec9141164397c8d1405d5",
+			"value": "your key",
 			"enabled": true
 		},
 		{
 			"key": "trelloToken",
-			"value": "8ee4dd60fd0fdd409488fc9162c3834efff060bc5859b3236736fd3838fc40b5",
+			"value": "your token",
 			"enabled": true
 		},
 		{
