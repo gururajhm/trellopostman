@@ -29,31 +29,51 @@
 		},
 		{
 			"key": "TODOListId",
-			"value": "5d6a7d1aed7ec961206646bb",
+			"value": "5d6b80e84aacd114accc5d88",
 			"enabled": true
 		},
 		{
 			"key": "DONEListID",
-			"value": "5d6a7d38104ad54fb62fc24b",
+			"value": "5d6b8a3f07f15b5d0732b668",
 			"enabled": true
 		},
 		{
 			"key": "remainingCards",
-			"value": 99,
+			"value": 97,
 			"enabled": true
 		},
 		{
 			"key": "ThatsABugCardID",
-			"value": "5d6a7d4c7b08508de01f90ac",
+			"value": "5d6b8ead2ed020736e293db0",
 			"enabled": true
 		},
 		{
 			"key": "counter",
-			"value": "0",
+			"value": 1,
+			"enabled": true
+		},
+		{
+			"key": "trelloBoardid",
+			"value": "5d6b80c02e15c43ebb8f2dfc",
+			"enabled": true
+		},
+		{
+			"key": "TODOListName",
+			"value": "TODO",
+			"enabled": true
+		},
+		{
+			"key": "DONEListName",
+			"value": "DONEListName",
+			"enabled": true
+		},
+		{
+			"key": "ThatsABugCardName",
+			"value": "TestingCardName",
 			"enabled": true
 		}
 	],
 	"_postman_variable_scope": "environment",
-	"_postman_exported_at": "2019-08-31T15:10:29.273Z",
+	"_postman_exported_at": "2019-09-01T12:38:16.646Z",
 	"_postman_exported_using": "Postman/7.6.0"
 }
